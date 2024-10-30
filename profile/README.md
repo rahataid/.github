@@ -1,24 +1,45 @@
-![Rahat Cover Photo](/Rahat.png)
-[Rahat](https://rahat.io): Financial solutions that prioritize Accessibility, Trust, and Scalability
+![Rahat Cover Photo](/Rahat.png)  
+**[Rahat](https://rahat.io)**: *Financial solutions that prioritize Accessibility, Trust, and Scalability*
 
-## Participating in Our Community 
+---
 
-We are a community of contributors—developers, volunteers, researchers, and members of the humanitarian sector, including employees of Rumsan. Together, we create an environment where innovation thrives, developing open and inclusive aid distribution technology that's accountable and accessible to all.
+### 🌍 **Participating in Our Community**
 
-Join our [community discussions](https://github.com/orgs/rahataid/discussions) on GitHub and help shape the future of Rahat! Your contributions will not only benefit the project but also empower marginalized communities by improving access to aid distribution technology.
+We’re a collaborative community of developers, volunteers, researchers, and humanitarian workers—including Rumsan employees—creating technology that is open, inclusive, and accountable to all.
 
-## About Rahat
+👉 **Join our [community discussions on GitHub](https://github.com/orgs/rahataid/discussions)** and help shape the future of Rahat! Your contributions empower marginalized communities by enhancing access to innovative aid distribution technology.
 
-The name 'Rahat,' derived from Nepali, signifies relief, and indeed, our mission is to break down barriers to financial inclusion and promote resilience among the most vulnerable populations. Rahat is developed by Rumsan, a blockchain company focused on social impact. 
+---
 
-As an open-source blockchain-based financial access platform, Rahat is dedicated to promoting financial inclusion and resilience across marginalized communities. We have positively impacted over 20,000 vulnerable beneficiaries across Nepal, Indonesia, and Pakistan and have provided essential digital and financial literacy support to over 3,000 individuals. 
+### 🧭 **About Rahat**
 
-## Contact Us
+The name *Rahat* means *relief* in Nepali, which is central to our mission: breaking down barriers to financial inclusion and fostering resilience among the world’s most vulnerable. Developed by **Rumsan**, a blockchain-focused social impact company, Rahat is an open-source, blockchain-based platform dedicated to financial inclusion.
 
-Learn more about Rahat and how you can be a part of our mission! Reach out to us today:
+**Impact**:
+- Reached over **20,000 vulnerable beneficiaries** across Nepal, Indonesia, and Pakistan
+- Provided essential digital and financial literacy to more than **3,000 individuals**
 
-- Email: team@rahat.io 
-- Phone: +977-9801109681
-- Website: [rahat.io](https://rahat.io)
-- Follow us on social media: 
-  - Twitter: [@rahataid](https://twitter.com/rahataid)
+---
+
+### 💪 **How to Contribute**
+
+Explore these resources to get started and make a meaningful impact:
+
+- [**Code of Conduct**](https://docs.rahat.io/docs/code_of_conduct) 📝: Our CoC ensures a respectful, inclusive environment for everyone.
+- [**Contributing Guidelines**](https://docs.rahat.io/docs/contributing_guidelines) 🔧: Follow this guide to make valuable contributions.
+- [**Rahat Improvement Proposals (RIPs)**](https://docs.rahat.io/docs/rip_guide) 💡: Submit ideas for new features and enhancements to drive Rahat forward.
+
+---
+
+### 📬 **Contact Us**
+
+Discover more about Rahat and learn how you can contribute to our mission:
+
+- **Email**: [team@rahat.io](mailto:team@rahat.io)
+- **Phone**: +977-9801109681
+- **Website**: [rahat.io](https://rahat.io)  
+- **Follow us on Twitter**: [@rahataid](https://twitter.com/rahataid)
+
+---
+
+This page gives a quick look at Rahat’s mission, invites community participation, and provides essential links for contributors to get involved. Join us in creating a more inclusive financial future! ✨
