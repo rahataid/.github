@@ -23,16 +23,28 @@ The name *Rahat* means *relief* in Nepali, which is central to our mission: brea
 
 ### 💪 **How to Contribute**
 
-As with any open-source community, Rahat works on multiple projects and tools at the same time. This is reflected in the number of repositories across our GitHub organization.
+Rahat is built by people who believe open technology can protect communities before crises strike.If you’re curious, motivated, or just getting started with open source, this is for you.
 
-**How to get started:**
+**Your First Step**
 
-- Review the **README** of repositories with recent activity. You may find references to roadmaps, ongoing work, or upcoming features.
-- Read the **Contributing Guidelines** and start by looking for issues labeled **[Good First Issue](https://github.com/rahataid/rahat-platform/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)**.
-- Review the **Rahat Tech Docs**, which are primarily intended for a software development audience.
-- If you have ideas for improvements or new features, explore or submit a **Rahat Improvement Proposal (RIP)**
+**🔎 Explore**  
+→ Browse active repositories  
+→ Skim the README to understand what’s being built and what’s needed
 
-### Community Guidelines
+**🧩 Try a Small Task**  
+→ Look for issues tagged  
+→ **[Good First Issue](https://github.com/rahataid/rahat-platform/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)** or **Help Wanted**  
+→ Great for first-time contributors
+
+**📘 Learn the System**  
+→ Read the **[Rahat Tech Docs](https://docs.rahat.io/)**  
+→ Understand how the platform works and how pieces connect
+
+**💡 Shape the Future**  
+→ Submit a **[Rahat Improvement Proposal (RIP)](https://docs.rahat.io/community/rahat-improvement-proposal)**  
+→ Propose features, improvements, or ideas
+
+### 🤝 How We Work Together
 
 - [**Code of Conduct**](https://docs.rahat.io/community/code-of-conduct) 📝  
   Our CoC ensures a respectful, inclusive, and welcoming environment for everyone in the Rahat community.
@@ -42,6 +54,9 @@ As with any open-source community, Rahat works on multiple projects and tools at
 
 - [**Rahat Improvement Proposals (RIPs)**](https://docs.rahat.io/community/rahat-improvement-proposal) 💡  
   A structured way to propose new features, enhancements, or significant changes to Rahat.
+
+  🌱 **No contribution is too small.**  
+Code, documentation, ideas, feedback; every effort helps build open, impactful humanitarian technology.
 
 ---
 
