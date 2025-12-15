@@ -13,7 +13,7 @@ We’re a collaborative community of developers, volunteers, researchers, and hu
 
 ### 🧭 **About Rahat**
 
-The name *Rahat* means *relief* in Nepali, which is central to our mission: breaking down barriers to financial inclusion and fostering resilience among the world’s most vulnerable. Developed by **Rumsan**, a blockchain-focused social impact company, Rahat is an open-source, blockchain-based platform dedicated to financial inclusion.
+The name *Rahat* means *relief* in Nepali, which is central to our mission: breaking down barriers to financial inclusion and fostering resilience among the world’s most vulnerable. Developed by **[Rumsan](https://rumsan.com/)**, a blockchain-focused social impact company, Rahat is an open-source, blockchain-based platform dedicated to financial inclusion.
 
 **Impact**:
 - Reached over **20,000 vulnerable beneficiaries** across Nepal, Indonesia, and Pakistan
