@@ -1,5 +1,5 @@
 ![Rahat Cover Photo](/Rahat.png)  
-**[Rahat](https://rahat.io)**: *Financial solutions that prioritize Accessibility, Trust, and Scalability*
+**[Rahat](https://rahat.io)**: *Supporting vulnerable communities with a simple and efficient relief distribution platform*
 
 ---
 
@@ -26,7 +26,7 @@ The name *Rahat* means *relief* in Nepali, which is central to our mission: brea
 Explore these resources to get started and make a meaningful impact:
 
 - [**Code of Conduct**](https://docs.rahat.io/docs/code_of_conduct) 📝: Our CoC ensures a respectful, inclusive environment for everyone.
-- [**Contributing Guidelines**](https://docs.rahat.io/docs/contributing_guidelines) 🔧: Follow this guide to make valuable contributions.
+- [**Contributing Guidelines**](https://docs.rahat.io/community/contribution-guidelines) 🔧: Follow this guide to make valuable contributions.
 - [**Rahat Improvement Proposals (RIPs)**](https://docs.rahat.io/docs/rip_guide) 💡: Submit ideas for new features and enhancements to drive Rahat forward.
 
 ---
