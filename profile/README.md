@@ -25,9 +25,9 @@ The name *Rahat* means *relief* in Nepali, which is central to our mission: brea
 
 Explore these resources to get started and make a meaningful impact:
 
-- [**Code of Conduct**](https://docs.rahat.io/docs/code_of_conduct) 📝: Our CoC ensures a respectful, inclusive environment for everyone.
+- [**Code of Conduct**](https://docs.rahat.io/community/code-of-conduct) 📝: Our CoC ensures a respectful, inclusive environment for everyone.
 - [**Contributing Guidelines**](https://docs.rahat.io/community/contribution-guidelines) 🔧: Follow this guide to make valuable contributions.
-- [**Rahat Improvement Proposals (RIPs)**](https://docs.rahat.io/docs/rip_guide) 💡: Submit ideas for new features and enhancements to drive Rahat forward.
+- [**Rahat Improvement Proposals (RIPs)**](https://docs.rahat.io/community/rahat-improvement-proposal) 💡: Submit ideas for new features and enhancements to drive Rahat forward.
 
 ---
 
